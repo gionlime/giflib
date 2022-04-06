@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "mygif";
+    public static final String TAG = "gifcpp";
 
     private ImageView imageView;
 

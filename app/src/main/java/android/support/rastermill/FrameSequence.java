@@ -23,7 +23,7 @@ import java.io.InputStream;
 
 public class FrameSequence {
     static {
-        System.loadLibrary("mygif");
+        System.loadLibrary("gifcpp");
     }
 
     private final long mNativeFrameSequence;

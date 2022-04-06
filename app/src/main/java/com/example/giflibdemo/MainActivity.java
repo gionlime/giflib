@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         imageView = findViewById(R.id.iv);
 
-        String gif = "https://n.sinaimg.cn/spider2019124/16/w500h316/20191204/aa9f-ikhvemx7549454.gif";
+        String gif = "https://img95.699pic.com/photo/40102/6852.gif_wh300.gif";
         Glide.with(this).as(FrameSequenceDrawable.class).load(gif).into(imageView);
     }
 }

@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         imageView = findViewById(R.id.iv);
         //gif网  https://www.vcg.com/sets/516794080
-        String gif = "https://alifei03.cfp.cn/creative/vcg/nowater800/new/VCG211291478740.gif";
+        String gif = "https://alifei04.cfp.cn/creative/vcg/nowarter800/new/VCG211263203865.gif";
         Glide.with(this).as(FrameSequenceDrawable.class).load(gif).into(imageView);
     }
 }

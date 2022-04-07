@@ -21,6 +21,11 @@ import java.nio.ByteBuffer;
 
 import java.io.InputStream;
 
+/**
+ * create by jeek
+ * 2022/4/7
+ * des:
+ **/
 public class FrameSequence {
     static {
         System.loadLibrary("gifcpp");

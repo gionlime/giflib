@@ -33,6 +33,11 @@ import android.os.Process;
 import android.os.SystemClock;
 import android.util.Log;
 
+/**
+ * create by jeek
+ * 2022/4/7
+ * des:
+ **/
 public class FrameSequenceDrawable extends Drawable implements Animatable, Runnable {
     private static final String TAG = "FrameSequence";
     /**

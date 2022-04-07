@@ -5,7 +5,11 @@ import android.support.rastermill.FrameSequenceDrawable;
 import com.bumptech.glide.RequestBuilder;
 import com.bumptech.glide.annotation.GlideType;
 import com.bumptech.glide.request.RequestOptions;
-
+/**
+ * create by jeek
+ * 2022/4/7
+ * des:
+ **/
 @com.bumptech.glide.annotation.GlideExtension
 public class GlideExtension {
 

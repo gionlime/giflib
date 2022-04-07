@@ -11,7 +11,11 @@ import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;
 
 import java.io.InputStream;
-
+/**
+ * create by jeek
+ * 2022/4/7
+ * des:
+ **/
 @GlideModule
 public class GifGlideModule extends AppGlideModule {
 

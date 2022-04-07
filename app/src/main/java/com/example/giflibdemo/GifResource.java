@@ -6,7 +6,11 @@ import androidx.annotation.NonNull;
 
 import com.bumptech.glide.load.resource.drawable.DrawableResource;
 
-
+/**
+ * create by jeek
+ * 2022/4/7
+ * des:
+ **/
 public class GifResource extends DrawableResource<FrameSequenceDrawable> {
 
     public GifResource(FrameSequenceDrawable drawable) {

@@ -1,5 +1,11 @@
 # giflib
 
+#### aar打包命令
+
+```shell
+./gradlew app:assembleRelease
+```
+
 #### 使用说明
 ```shell
         //gif网  https://www.vcg.com/sets/516794080

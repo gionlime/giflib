@@ -1,4 +1,4 @@
-package com.example.giflibdemo;
+package com.yunbo.giflib;
 
 import org.junit.Test;
 
